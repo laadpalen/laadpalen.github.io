@@ -1,0 +1,149 @@
+---
+layout: default
+title:  "Nieuws update laadpalen Bold"
+date:   2022-12-02 21:46:31 +0100
+
+---
+Beste pionier! 
+
+Eerder heb je aangegeven waarschijnlijk deel te willen nemen aan de Pioniersgroep (met of zonder laadpaal) in de BOLD parkeergarage. 
+
+Via deze brief geven we je een update en vragen we je te reageren.
+
+<u>Achtergrondinformatie:</u>
+
+Allereerst wat achtergrondinformatie waarom het lang geduurd heeft dat we jullie informeren. Het is juridisch niet zo makkelijk om de infrastructuur te plaatsen en de kosten te verdelen. 
+Redenen hiervan zijn onder andere:
+
+- De infrastructuur wordt uiteindelijk onderdeel van de VvE.
+- De oplossing moet toekomstbestendig zijn.
+- We kunnen niet elke eigenaar dwingen om mee te doen, hierdoor moeten de investeringen gedragen worden door de pioniers en moeten we dit middels een verdienmodel aantrekkelijk maken.
+- Er moet een kettingbeding vastgelegd worden.
+
+Om dit alles goed te regelen en te integreren in de VvE, werken we samen met een jurist die een constructie heeft bedacht voor de aanschaf van de infrastructuur en de periode die na aanschaf komt. Tevens wordt het bestaan van de pioniersgroep formeel vastgelegd.
+Hier wordt een zogeheten aannemers overeenkomt voor aangegaan, waarbij de pioniersgroep optreedt als aannemer in opdracht van de VvE. Hierover in de toekomst meer. 
+
+<u>De Pionier mét laadpaal:</u>
+
+Uit het onderzoek dat de jurist heeft gedaan is tevens gebleken dat het nog ingewikkelder wordt als niet alle pioniers meteen een laadpaal aanschaffen.
+
+Dit maakt dat we hebben moeten besluiten om de keuze om wél Pionier te worden, maar géén laadpaal aan te schaffen hebben moeten laten vervallen. <u>Alle pioniersgroep deelnemers zullen een laadpaal moeten aanschaffen.</u> Omdat enkelen van jullie hebben aangegeven pas later een laadpaal nodig te hebben, kan dit als gevolg hebben dat er pioniers afvallen. Helaas is hier geen andere haalbare constructie voor te bedenken die werkbaar is en juridisch in orde is.
+
+
+Daar komt bij dat de commissie ervan overtuigd is dat het aanschaffen van een laadpaal bij aanvang voordeliger en praktischer is dan deze later te laten plaatsen. Ook als de laadpaal initieel een geruime tijd niet gebruikt wordt. Dit komt door de sterke korting bij tegelijkertijd collectief aanschaffen en door de te verwachten wereldwijde kostenstijging van grondstoffen en arbeidsloon. 
+
+
+<u>Toelichting keuze voor direct een laadpaal:</u>
+
+![Maandelijkse kosten](/Assets/montly_costs.png)
+
+Bij oplevering van de laadpaal zijn de kosten voor verlengde garantie (á €4,24 per maand) de enige maandelijkse kosten die direct beginnen te lopen. 
+De kosten voor het “laadpaalbeheer abonnement” beginnen pas te lopen zodra de laadpaal is geregistreerd door de eigenaar. Dit kan dus gedaan worden op het moment dat de laadpaal daadwerkelijk nodig is. Zonder registratie (en dus zonder laadpaalbeheerabonnement) is de laadpaal niet te gebruiken, want de kosten voor de gebruikte stroom kunnen niet verrekend worden. 
+
+Om te bepalen of het financieel handig is om meteen een laadpaal te plaatsen, of om dit later te doen wanneer de laadpaal echt nodig is, zouden we dus het verschil in kosten van plaatsen moeten delen door de €4,24 die direct per maand betaald moet worden. 
+
+![Kosten verschil](/Assets/cost_difference.png)
+
+Op dit moment is het onduidelijk wat precies het kostenverschil zal zijn, maar een aantal honderden euro’s is een reële schatting. 
+Stel: Denk je binnen 4 jaar de laadpaal te willen gaan gebruiken? Dan is het bij een kostenverschil van €200,- al verstandig om meteen een laadpaal te laten plaatsen.
+Hoe hoger het kostenverschil, hoe logischer het is om direct een laadpaal te laten plaatsen. 
+ 
+Dit staat nog volledig los van het gemak aangezien toekomstige laadpalen aangevraagd zullen moeten worden en de termijn waarop het geïnstalleerd zal worden onbekend is. 
+
+Conclusie: financieel en praktisch gezien zijn er sterke argumenten om meteen een laadpaal te laten plaatsen. 
+
+<u>De nieuwe offerte:</u>
+
+De eerder uitgegeven offerte is inmiddels verlopen en bijgesteld. Daarnaast zijn er enkele noodzakelijke opties toegevoegd aan de offerte met betrekking tot de infrastructuur: 
+- Loadbalancing. 
+Dit voorkomt dat de infrastructuur uitgeschakeld wordt mochten we ooit weer een vorm van transportbeperking opgelegd krijgen door de netbeheerder,  of als we (de VvE stroom aansluiting) om andere redenen gevaarlijk dicht bij het piekvermogen komt. Met Loadbalancing wordt automatisch en enkel op piekmomenten (tijdelijk) de laadstroom gereduceerd. 
+- Automatische uitschakeling bij brand. 
+- Brandweerschakelaar op de buitengevel (locatie nader te bepalen met bestuur).
+- Juridische kosten.
+
+<u>De kosten:</u>
+
+**Bij de huidige interesse (67 pioniers), kost een laadpaal in totaal per stuk €3125,82.**
+
+Hieronder zijn de eenmalige en maandelijkse kosten uiteengezet: 
+- Eenmalig: Kosten infrastructuur + juridische kosten: €2082,19 (bij 67 deelnemers!) 
+In de bijlage wordt uitgelegd wat de kosten voor de infrastructuur en juridische kosten zijn per laadpaal bij het genoemde aantal deelnemers. Op het moment van schrijven zijn 67 mensen geïnteresseerd. 
+- Eenmalig: Laadpaal: €1045,-
+Deze kosten staan vast (zolang de offerte geldig is) en zijn dus niet afhankelijk van het aantal deelnemers zo lang als we minimaal 48 laadpalen afnemen.
+We maken geen onderscheidt meer tussen wand- en plafond (beugel) montage.  
+- Maandelijks voor minimaal 5 jaar: Verlengde garantie: €4,24 per maand, per laadpaal. 
+Verplichte verlengde garantie per maand voor 5 jaar, te betalen bij oplevering:(Deze kunnen we na 5 jaar eventueel verlengen): €4,24 per maand per laadpaal.
+- Maandelijks: Laadpaalbeheerabonnement: €5,- / €7,- per maand per laadpaal. 
+Om je laadpaal te gebruiken heb je een laadpaalbeheerabonnement nodig (dit is ook het geval bij de laadpalen die nu al in de garage hangen). 
+Je bepaalt zelf wanneer je deze laat ingaan en betaalt pas vanaf aanmelden. De kosten zijn afhankelijk van het abonnement dat je zelf kiest. Je hebt alle tijd om een goede overweging te maken welk abonnement je wilt. Bevalt het abonnement niet, dan kun je altijd veranderen van abonnement. 
+Zodra een abonnement is gestart, loopt deze minimaal tot het einde van de verlengde garantietermijn (5 jaar na oplevering). 
+Er zijn twee opties, met als grootste verschil: “roaming”. 
+<u>Met roaming:</u>
+Wil je dat alle laadpassen (ANWB, Vattenfall, Plugsurfing, etc.) het op jouw laadpaal doen (misschien heb je wel een laadpas van je werkgever..), dan moet je het Max abonnement nemen. Voor “roamen” wordt echter wel €0,02 per kWh gerekend aan de laadpas eigenaar. 
+<u>Zonder roaming:</u>
+Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken? Wil je op de meest voordelige manier laden op jouw plek? Dan is het “plus abonnement” iets voor jou.  Let wel, hier heb je vervolgens een specifieke laadpas bij nodig en de kosten hiervan (€4,- per maand) komen nog bovenop de kosten van het laadpaalbeheerabonnement.  Deze laadpas is ook bruikbaar bij publiek laden in Nederland en Europa (+375.000 laadpunten). 
+
+![Abonnement](/Assets/subscription.png)
+
+
+<u>De verdiensten:</u>
+
+Los van het feit dat je een mooie laadpaal hebt voor een gunstige prijs is er natuurlijk een verdienmodel voor elke Pionier zoals eerder gecommuniceerd. 
+Wat betreft de setup is er niets veranderd.  
+Voorbeeld: 
+Bij 67 Pioniers zijn de kosten per laadpaal € 3125,- per stuk. Hiervan zijn €2082,19 voor de infrastructuur. 
+Mocht later iemand (nummer 68) een laadpaal willen laten plaatsen, dan is dat geen probleem. Ook zij betalen dan €2082,19 voor de infrastructuur en daar bovenop nog de prijs voor de laadpaal (zonder korting en inclusief mogelijke prijsstijgingen). 
+Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 geïnteresseerd. Als de overige 83 plekken op termijn ook een laadpaal nemen, dan krijgen de Pioniers in totaal €2579,43 in retour per laadpaal. 
+Uiteraard wordt er na elke nieuw geplaatste laadpaal periodiek uitgekeerd (dit loopt via de rekening van de VvE). 
+
+<u>Stemming in VvE:</u>
+
+Naast akkoord van de pioniers is er akkoord nodig van de VvE Parkeren. Het huishoudelijk reglement moet namelijk waarschijnlijk aangepast worden. Hiervoor is een ALV nodig en momenteel is de commissie in overleg met het bestuur hoe dit het beste aangepakt kan worden. 
+Zodra hier meer over bekend is zullen we dit mededelen. 
+
+**<u>Actie gevraagd:</u>**
+
+Voor een soepel verder verloop van dit proces is het van groot belang dat je je definitieve keuze kenbaar maakt aan ons. Waarna je bij interesse op korte termijn een contract krijgt ter ondertekening (dit zal na overeenstemming met het VvE bestuur gebeuren).
+We kunnen de offerte van de leverancier accoderen, nadat alle pioniers het contract ondertekend hebben én betaald hebben.
+Na de definitieve opdrachtverstrekking zal de doorlooptijd van plaatsen ongeveer 3 maanden duren volgens de huidige berichtgeving.
+
+
+
+We kunnen ons voorstellen dat je nog vragen hebt. De commissie wil deze met liefde en plezier beantwoorden.
+
+Reageer a.u.b. voor DATUM X
+
+[KLIK HIER OM JE KEUZE DOOR TE GEVEN](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAEeZ0yLaXRUOFA0RjRBR0k4Vzk4M1lNUTFKUFU3Rk9QNC4u)
+
+Met vriendelijke groet,
+Pier van Zonneveld
+Frits Ariëns
+Marco Bottelier
+Mark Jan Moorman
+
+_<u>Disclaimer:</u>_
+Alle bedragen zijn inclusief BTW en onder voorbehoud van prijsstijgingen.
+De prijs en prijsstijging van de infrastructuur en de laadpalen is op basis van de huidige offerte, deze heeft een beperkte houdbaarheid. Op basis van de uiteindelijke totale vraag (jouw keuze dus) kan de offerte nog iets veranderen. Hier is de regel: “hoe meer mensen meedoen hoe goedkoper het wordt per laadpaal”. 
+Eventuele prijsstijgingen in te toekomst van laadpaalbeheer abonnementskosten zijn vastgesteld door de leverancier. 
+De commissie heeft geen invloed op eventuele prijsstijgingen._
+
+
+
+Bijlage 1: kosten infrastructuur bij x aantal deelnemers:
+
+
+
+Bijlage 2: Verlengde garantie:
+**ONDERHOUD, SERVICE EN GARANTIE**
+Onder onderhoud, service en garantie kunnen wij een abonnement aanbieden waarin het gehele pakket bestaande uit onderhoud, service en garantie uit handen zal worden genomen. Voor dit be- drag zullen wij jaarlijks de installatie controleren en waar nodig klein correctief onderhoud plegen, bieden wij service op afstand en ter plaatse en worden storingen kosteloos opgelost. Het onder- staand vermelde bedrag zal gelden voor alle aangesloten laadstations voor een maximale periode van 5 jaar. 
+Onderhoud, service en verlengde garantie 
+Dit bedrag omvat: 
+-  Jaarlijkse controle op locatie en uitvoeren klein correctief onderhoud 
+-  Rapportage van het jaarlijkse onderhoud 
+-  Het verlenen service op afstand (Off-site) 
+-  Het verlenen van service op locatie (On-site) 
+-  De benodigde materialen 
+-  Gebaseerd op uitvoering op werkdagen tussen 8:00uur en 17:00uur 
+
+
+€ 3,50 per maand per laadpaal (excl. btw)
