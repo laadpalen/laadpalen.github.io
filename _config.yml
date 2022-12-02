@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Website voor informatie omtrent laadpalen in BOLD
 domain: laadpalen.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://laadpalen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /laadpalen/
+#baseurl: /laadpalen/
 
 # Build settings
 # theme: minima
