@@ -27,8 +27,7 @@ url: https://laadpalen.github.io  # the base hostname and protocol for your site
 #baseurl: /laadpalen/
 
 # Build settings
-# theme: minima
-remote_theme: jekyll/minima 
+theme: minima
 plugins:
   - jekyll-feed
 
