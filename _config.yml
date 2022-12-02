@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
 title: BOLD
 email: laadpalenbold@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -26,10 +31,6 @@ domain: laadpalen.github.io       # if you want to force HTTPS, specify the doma
 url: https://laadpalen.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /laadpalen/  
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
