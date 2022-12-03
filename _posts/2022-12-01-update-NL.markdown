@@ -1,7 +1,8 @@
 ---
 layout: default
-title:  "Nieuws update laadpalen Bold"
+title:  "Nieuws update laadpalen Bold [NL]"
 date:   2022-12-02 21:46:31 +0100
+due-date: xx-xx-xxxx
 
 ---
 Beste pionier! 
@@ -93,8 +94,10 @@ Wat betreft de setup is er niets veranderd.
 Voorbeeld: 
 Bij 67 Pioniers zijn de kosten per laadpaal € 3125,- per stuk. Hiervan zijn €2082,19 voor de infrastructuur. 
 Mocht later iemand (nummer 68) een laadpaal willen laten plaatsen, dan is dat geen probleem. Ook zij betalen dan €2082,19 voor de infrastructuur en daar bovenop nog de prijs voor de laadpaal (zonder korting en inclusief mogelijke prijsstijgingen). 
-Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 geïnteresseerd. Als de overige 83 plekken op termijn ook een laadpaal nemen, dan krijgen de Pioniers in totaal €2579,43 in retour per laadpaal. 
-Uiteraard wordt er na elke nieuw geplaatste laadpaal periodiek uitgekeerd (dit loopt via de rekening van de VvE). 
+Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 geïnteresseerd (de Pioniers). 
+Voor elke laadpaal dat later geplaatst wordt ontvangt iedere Pionier per laadpaal (€2082,19/67 pioniers) €31.08. 
+Als de overige 83 (150-67) plekken op termijn allemaal een laadpaal hebben genomen, dan heb je per Pionier, per laadpaal, in totaal een bedrag van (€31,08 X 83 extra laadpalen) €2579,43 ontvangen. 
+Uiteraard wordt er na elke nieuw geplaatste laadpaal periodiek uitgekeerd (dit loopt via de rekening van de VvE).
 
 <u>Stemming in VvE:</u>
 
@@ -111,7 +114,7 @@ Na de definitieve opdrachtverstrekking zal de doorlooptijd van plaatsen ongeveer
 
 We kunnen ons voorstellen dat je nog vragen hebt. De commissie wil deze met liefde en plezier beantwoorden.
 
-Reageer a.u.b. voor DATUM X
+Reageer a.u.b. voor {{ page.due-date }}
 
 [KLIK HIER OM JE KEUZE DOOR TE GEVEN](https://forms.office.com/pages/responsepage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAEeZ0yLaXRUOFA0RjRBR0k4Vzk4M1lNUTFKUFU3Rk9QNC4u)
 
