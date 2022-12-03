@@ -28,6 +28,7 @@ url: https://laadpalen.github.io  # the base hostname and protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 
 # Exclude from processing.
