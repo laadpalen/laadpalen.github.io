@@ -5,7 +5,7 @@ date:   2022-12-02 21:46:31 +0100
 due-date: xx-xx-xxxx
 
 ---
-Beste pionier! 
+Beste pionier! Dit is een test
 
 Eerder heb je aangegeven waarschijnlijk deel te willen nemen aan de Pioniersgroep (met of zonder laadpaal) in de BOLD parkeergarage. 
 
