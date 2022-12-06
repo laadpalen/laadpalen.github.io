@@ -1,0 +1,44 @@
+---
+layout: default
+title:  "Test"
+date:   2022-12-02 21:46:31 +0100
+due-date: xx-xx-xxxx
+---
+
+<details>
+<summary><b>Preview title</b></summary>
+
+_Markdown is valid, but add empty lines to separate from the HTML tags._
+
+- Bullet
+- Points
+
+```json
+{
+    "codeblock": "demo"
+}
+```
+
+</details>
+
+<details>
+<summary>Preview</summary>
+
+    1. First item
+    2. Second item 
+    3. Third item
+
+    # H1
+    ## H2
+    ### H3
+
+
+</details>
+
+1. First item
+2. Second item
+3. Third item
+
+# H1
+## H2
+### H3
