@@ -60,7 +60,7 @@ due-date: xx-xx-xxxx
 
 <p></p>
 
-<p>Via deze email geven we je een update en vragen we je te reageren.</p>
+<p>Via deze brief geven we je een update en vragen we je te reageren.</p>
 
 <p></p>
 
@@ -69,18 +69,14 @@ due-date: xx-xx-xxxx
 <p>Allereerst wat achtergrondinformatie waarom het lang geduurd heeft dat we jullie informeren. Het is juridisch niet zo makkelijk om de infrastructuur te plaatsen en de kosten te verdelen.</p>
 
 <p>Redenen hiervan zijn onder andere:</p>
+<ul>
+<li>De infrastructuur wordt uiteindelijk onderdeel van de VvE.</li>
+<li>De oplossing moet toekomstbestendig zijn.</li>
+<li>We kunnen niet elke eigenaar dwingen om mee te doen, hierdoor moeten de investeringen gedragen worden door de pioniers en moeten we dit middels een verdienmodel aantrekkelijk maken.</li>
+<li>Er moet een kettingbeding vastgelegd worden.</li>
+</ul>
 
-<p>De infrastructuur wordt uiteindelijk onderdeel van de VvE.</p>
-
-<p>De oplossing moet toekomstbestendig zijn.</p>
-
-<p>We kunnen niet elke eigenaar dwingen om mee te doen, hierdoor moeten de investeringen gedragen worden door de pioniers en moeten we dit middels een verdienmodel aantrekkelijk maken.</p>
-
-<p>Er moet een kettingbeding vastgelegd worden.</p>
-
-<p>Om dit alles goed te regelen en te integreren in de VvE, werken we samen met een jurist die een constructie heeft bedacht voor de aanschaf van de infrastructuur en de periode die na aanschaf komt (n.b. mensen die later een laadpaal willen en hiervoor de pioniersgroep zullen compenseren). Tevens wordt het bestaan van de pioniersgroep formeel vastgelegd.</p>
-
-<p>Hier wordt een zogeheten aannemers overeenkomt voor aangegaan, waarbij de pioniersgroep optreedt als aannemer in opdracht van de VvE. Hierover in de toekomst meer.</p>
+<p>Om dit alles goed te regelen en te integreren in de VvE, werken we samen met een jurist die een constructie heeft bedacht voor de aanschaf van de infrastructuur en de periode die na aanschaf komt (n.b. mensen die later een laadpaal willen en hiervoor de pioniersgroep zullen compenseren). Tevens wordt het bestaan van de pioniersgroep formeel vastgelegd. Hier wordt een zogeheten aannemers overeenkomt voor aangegaan, waarbij de pioniersgroep optreedt als aannemer in opdracht van de VvE. Hierover in de toekomst meer.</p>
 
 <p>Daarnaast zal het e.e.a. vastgelegd moeten worden in het huishoudelijk regelement. Hierover verderop in de tekst meer.</p>
 
@@ -184,7 +180,7 @@ Er zijn twee opties, met als grootste verschil: “roaming”.
 <br>
 <ins>Met roaming:</ins>
 <br>
-Wil je dat alle laadpassen (ANWB, Vattenfall, Plugsurfing, etc.) het op jouw laadpaal doen (misschien heb je wel een laadpas van je werkgever..), dan moet je het Max abonnement nemen. Voor “roamen” wordt echter wel €0,02 per kWh gerekend aan de laadpas eigenaar.  
+Wil je dat alle laadpassen (ANWB, Vattenfall, Plugsurfing, etc.) het op jouw laadpaal doen (misschien heb je wel een laadpas van je werkgever...), dan moet je het Max abonnement nemen. Voor “roamen” wordt echter wel €0,02 per kWh gerekend aan de laadpas eigenaar.  
 <br>
 <ins>Zonder roaming:</ins>
 <br>
@@ -238,6 +234,134 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 <p><b>Reageer a.u.b. voor 14-12-2022</b></p>
 
 <a href="https://forms.office.com/r/8PjexDL1Qq" class="buttonFancy">Klik hier om je keuze door te geven </a>
+
+<p>Met vriendelijke groet,
+<br>
+De Laadpalencommissie</p>
+
+<p><ins><i>Disclaimer:</i></ins></p>
+<ul>
+<li>Alle bedragen zijn inclusief BTW en onder voorbehoud van prijsstijgingen.</li>
+<li>De prijs en prijsstijging van de infrastructuur en de laadpalen is op basis van de huidige offerte, deze heeft een beperkte houdbaarheid. Op basis van de uiteindelijke totale vraag (jouw keuze dus) kan de offerte nog iets veranderen. Hier is de regel: &ldquo;hoe meer mensen meedoen hoe goedkoper het wordt per laadpaal&rdquo;.</li>
+<li>Eventuele prijsstijgingen in te toekomst van laadpaalbeheer abonnementskosten zijn vastgesteld door de leverancier.</li>
+<li>De commissie heeft geen invloed op eventuele prijsstijgingen.</li>
+</ul>
+
+<p><ins>Bijlage 1: kosten infrastructuur bij x aantal deelnemers:</ins></p>
+
+<p>Let wel: Onderstaande matrix kan nog lichtelijk wijzigen op basis van mogelijke optimalisaties afhankelijk van het aantal deelnemers.</p>
+
+<button type="button" class="collapsible">Klik hier voor matrix</button>
+<div class="content">
+<table>
+    <tr>
+        <td>Number Pioneers group attendees</td>
+        <td>€</td>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>€ 2.790,14</td>
+    </tr>
+    <tr>
+        <td>51</td>
+        <td>€ 2.735,43</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>€ 2.682,83</td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>€ 2.632,21</td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>€ 2.583,46</td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>€ 2.536,49</td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>€ 2.491,20</td>
+    </tr>
+    <tr>
+        <td>57</td>
+        <td>€ 2.447,49</td>
+    </tr>
+    <tr>
+        <td>58</td>
+        <td>€ 2.405,29</td>
+    </tr>
+    <tr>
+        <td>59</td>
+        <td>€ 2.364,52</td>
+    </tr>
+    <tr>
+        <td>60</td>
+        <td>€ 2.325,12</td>
+    </tr>
+    <tr>
+        <td>61</td>
+        <td>€ 2.287,00</td>
+    </tr>
+    <tr>
+        <td>62</td>
+        <td>€ 2.250,11</td>
+    </tr>
+    <tr>
+        <td>63</td>
+        <td>€ 2.214,40</td>
+    </tr>
+    <tr>
+        <td>64</td>
+        <td>€ 2.179,80</td>
+    </tr>
+    <tr>
+        <td>65</td>
+        <td>€ 2.146,26</td>
+    </tr>
+    <tr>
+        <td>66</td>
+        <td>€ 2.113,74</td>
+    </tr>
+    <tr>
+        <td>67</td>
+        <td>€ 2.082,19</td>
+    </tr>
+    <tr>
+        <td>68</td>
+        <td>€ 2.051,57</td>
+    </tr>
+    <tr>
+        <td>69</td>
+        <td>€ 2.021,84</td>
+    </tr>
+    <tr>
+        <td>70</td>
+        <td>€ 1.992,96</td>
+    </tr>
+</table>
+</div>
+<br>
+<br>
+<p><ins>Bijlage 2: Verlengde garantie:</ins></p>
+
+<p><b>ONDERHOUD, SERVICE EN GARANTIE</b></p>
+
+<p><i>Onder onderhoud, service en garantie kunnen wij een abonnement aanbieden waarin het gehele pakket bestaande uit onderhoud, service en garantie uit handen zal worden genomen. Voor dit be- drag zullen wij jaarlijks de installatie controleren en waar nodig klein correctief onderhoud plegen, bieden wij service op afstand en ter plaatse en worden storingen kosteloos opgelost. Het onder- staand vermelde bedrag zal gelden voor alle aangesloten laadstations voor een maximale periode van 5 jaar.<i>
+<ul>
+<li>Onderhoud, service en verlengde garantie</li>
+<li>Dit bedrag omvat:</li>
+<li>Jaarlijkse controle op locatie en uitvoeren klein correctief onderhoud</li>
+<li>Rapportage van het jaarlijkse onderhoud</li>
+<li>Het verlenen service op afstand (Off-site)</li>
+<li>Het verlenen van service op locatie (On-site)</li>
+<li>De benodigde materialen</li>
+<li>Gebaseerd op uitvoering op werkdagen tussen 8:00 uur en 17:00 uur</li>
+<li>&euro; 3,50 per maand per laadpaal (excl. btw)</li>
+</ul>
 
 <script>
 var coll = document.getElementsByClassName("collapsible");
