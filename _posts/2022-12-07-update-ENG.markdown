@@ -47,6 +47,9 @@ date:   2022-12-07 20:52:00 +0100
 </head>
 <body>
 
+<a href="https://laadpalen.github.io/2022/12/07/update-NL.html"> Dutch version is always leading</a>
+<br>
+<br>
 <p>Dear pioneer!</p>
 
 <p></p>

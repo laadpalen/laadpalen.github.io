@@ -50,12 +50,6 @@ due-date: xx-xx-xxxx
 
 <p>Beste pionier!</p>
 
-<p></p>
-
-<p><i>English version below.</i></p>
-
-<p></p>
-
 <p>Eerder heb je aangegeven waarschijnlijk deel te willen nemen aan de Pioniersgroep (met of zonder laadpaal) in de BOLD parkeergarage.</p>
 
 <p></p>
