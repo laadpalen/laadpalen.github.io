@@ -1,0 +1,257 @@
+---
+layout: default
+title:  "Nieuws update laadpalen Bold [NL]"
+date:   2022-12-07 20:52:00 +0100
+due-date: xx-xx-xxxx
+
+---
+
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+.buttonFancy {
+  background-color: #4CAF50;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.active, .collapsible:hover {
+  background-color: #555;
+}
+
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<p>Beste pionier!</p>
+
+<p></p>
+
+<p><i>English version below.</i></p>
+
+<p></p>
+
+<p>Eerder heb je aangegeven waarschijnlijk deel te willen nemen aan de Pioniersgroep (met of zonder laadpaal) in de BOLD parkeergarage.</p>
+
+<p></p>
+
+<p>Via deze email geven we je een update en vragen we je te reageren.</p>
+
+<p></p>
+
+<p><b>STATUS</b></p>
+
+<p>Allereerst wat achtergrondinformatie waarom het lang geduurd heeft dat we jullie informeren. Het is juridisch niet zo makkelijk om de infrastructuur te plaatsen en de kosten te verdelen.</p>
+
+<p>Redenen hiervan zijn onder andere:</p>
+
+<p>De infrastructuur wordt uiteindelijk onderdeel van de VvE.</p>
+
+<p>De oplossing moet toekomstbestendig zijn.</p>
+
+<p>We kunnen niet elke eigenaar dwingen om mee te doen, hierdoor moeten de investeringen gedragen worden door de pioniers en moeten we dit middels een verdienmodel aantrekkelijk maken.</p>
+
+<p>Er moet een kettingbeding vastgelegd worden.</p>
+
+<p>Om dit alles goed te regelen en te integreren in de VvE, werken we samen met een jurist die een constructie heeft bedacht voor de aanschaf van de infrastructuur en de periode die na aanschaf komt (n.b. mensen die later een laadpaal willen en hiervoor de pioniersgroep zullen compenseren). Tevens wordt het bestaan van de pioniersgroep formeel vastgelegd.</p>
+
+<p>Hier wordt een zogeheten aannemers overeenkomt voor aangegaan, waarbij de pioniersgroep optreedt als aannemer in opdracht van de VvE. Hierover in de toekomst meer.</p>
+
+<p>Daarnaast zal het e.e.a. vastgelegd moeten worden in het huishoudelijk regelement. Hierover verderop in de tekst meer.</p>
+
+<p><b>VERPLICHT EEN LAADPAAL</b></p>
+
+<p><ins>Juridisch lastig:</ins></p>
+
+<p>Uit het onderzoek dat de jurist heeft gedaan is gebleken dat het n&oacute;g ingewikkelder wordt als niet alle pioniers meteen een laadpaal aanschaffen.</p>
+
+<p></p>
+
+<p><ins>Praktischer &eacute;n voordeliger:</ins></p>
+
+<p>Daar komt bij dat de commissie ervan overtuigd is dat het aanschaffen van een laadpaal bij aanvang voordeliger en praktischer is dan deze later te laten plaatsen. Ook als de laadpaal initieel een geruime tijd niet gebruikt wordt. Dit komt door de sterke korting bij tegelijkertijd collectief aanschaffen en door de te verwachten wereldwijde kostenstijging van grondstoffen en arbeidsloon.</p>
+
+<p></p>
+
+<p><ins>Pionier &eacute;n laadpaal:</ins></p>
+
+<p>Dit maakt dat we hebben moeten besluiten om de keuze om w&eacute;l Pionier te worden, maar g&eacute;&eacute;n laadpaal aan te schaffen hebben moeten laten vervallen. <ins><i>Alle pioniersgroep deelnemers zullen een laadpaal moeten aanschaffen.</i></ins> Omdat enkelen van jullie hebben aangegeven pas later een laadpaal nodig te hebben, kan dit als gevolg hebben dat er pioniers afvallen. Helaas is hier geen andere haalbare constructie voor te bedenken die werkbaar is en juridisch in orde is.</p>
+
+<p><ins><i>Advies van de commissie: wordt Pionier inclusief direct een laadpaal!</i></ins></p>
+
+<button type="button" class="collapsible">Mocht je nog twijfel hierover hebben, een onderbouwing van bovenstaande vind je door hier te klikken</button>
+<div class="content">
+<img src="/Assets/montly_costs.png" alt="Maandelijkse kosten">
+<p>Bij oplevering van de laadpaal zijn de kosten voor verlengde garantie (á €4,24 per maand) de enige maandelijkse kosten die direct beginnen te lopen.<br>
+
+De kosten voor het “laadpaalbeheer abonnement” beginnen pas te lopen zodra de laadpaal is geregistreerd door de eigenaar. Dit kan dus gedaan worden op het moment dat de laadpaal daadwerkelijk nodig is. Zonder registratie (en dus zonder laadpaalbeheerabonnement) is de laadpaal niet te gebruiken, want de kosten voor de gebruikte stroom kunnen niet verrekend worden. </p>
+
+<p>Om te bepalen of het financieel handig is om meteen een laadpaal te plaatsen, of om dit later te doen wanneer de laadpaal echt nodig is, zouden we dus het verschil in kosten van plaatsen moeten delen door de €4,24 die direct per maand betaald moet worden.</p>
+
+<img src="/Assets/cost_difference.png" alt="Kosten verschil">
+
+<p>Op dit moment is het onduidelijk wat precies het kostenverschil zal zijn, maar een aantal honderden euro’s is een reële schatting.  
+<br>
+Stel: Denk je binnen 4 jaar de laadpaal te willen gaan gebruiken? Dan is het bij een kostenverschil van €200,- al verstandig om meteen een laadpaal te laten plaatsen. 
+<br>
+Hoe hoger het kostenverschil, hoe logischer het is om direct een laadpaal te laten plaatsen.  </p>
+</div>
+<br>
+<br>
+<p><b>HERZIENE OFFERTE</b></p>
+
+<p>De eerder uitgegeven offerte is inmiddels verlopen en bijgesteld. Daarnaast zijn er enkele noodzakelijke opties toegevoegd aan de offerte met betrekking tot de infrastructuur:</p>
+
+<ul>
+<li>Loadbalancing.</li>
+Dit voorkomt dat de infrastructuur uitgeschakeld wordt mochten we ooit weer een vorm van transportbeperking opgelegd krijgen door de netbeheerder, of als we (de VvE stroom aansluiting) om andere redenen gevaarlijk dicht bij het piekvermogen komt. Met Loadbalancing wordt automatisch en enkel op piekmomenten (tijdelijk) de laadstroom gereduceerd.
+<li>Automatische uitschakeling bij brand.</li>
+<li>Brandweerschakelaar op de buitengevel (locatie nader te bepalen met bestuur).</li>
+<li>Juridische kosten.</li></ul>
+
+<p><b>DE KOSTEN</b></p>
+<p><i>Bij de huidige interesse (67 pioniers), kost een laadpaal in totaal per stuk &euro;3125,82.</i></p>
+<p></p>
+<p>Hieronder zijn de eenmalige en maandelijkse kosten uiteengezet.</p>
+<p><ins>Eenmalig:</ins></p>
+<ul>
+<li>Kosten infrastructuur + juridische kosten: €2082,19 (bij 67 deelnemers!) Let op: als Pionier kun je dit bedrag ruim terugverdienen. Zie “terugverdienregeling” hieronder.</li>
+<br>
+<button type="button" class="collapsible">Klik hier voor uitleg</button>
+<div class="content">
+In de bijlage wordt uitgelegd wat de kosten voor de infrastructuur en juridische kosten zijn per laadpaal bij het genoemde aantal deelnemers. Op het moment van schrijven zijn 67 mensen geïnteresseerd.  
+</div>
+<br>
+<br>
+<li>Laadpaal: €1043,63,- </li>
+<br>
+<button type="button" class="collapsible">Klik hier voor uitleg</button>
+<div class="content">
+Deze kosten staan vast (zolang de offerte geldig is) en zijn dus niet afhankelijk van het aantal deelnemers zo lang als we minimaal 48 laadpalen afnemen. 
+<br>
+We maken geen onderscheidt meer tussen wand- en plafond (beugel) montage.
+</div>
+<br>
+<br>
+</ul>
+
+<p><ins>Maandelijkse kosten:</ins></p>
+<ul>
+<li>Maandelijks voor minimaal 5 jaar: Verlengde garantie: €4,24 per maand, per laadpaal.</li>
+<br>
+<button type="button" class="collapsible">Klik hier voor uitleg</button>
+<div class="content">
+Verplichte verlengde garantie per maand voor 5 jaar, te betalen bij oplevering: 
+(Deze kunnen we na 5 jaar eventueel verlengen): €4,24 per maand per laadpaal. 
+</div>
+<br>
+<br>
+<li>Maandelijks: Laadpaalbeheerabonnement: €5,- / €7,- per maand per laadpaal.</li>
+<br>
+<button type="button" class="collapsible">Klik hier voor uitleg</button>
+<div class="content">
+Om je laadpaal te gebruiken heb je een laadpaalbeheerabonnement nodig (dit is ook het geval bij de laadpalen die nu al in de garage hangen).  
+<br>
+Je bepaalt zelf wanneer je deze laat ingaan en betaalt pas vanaf aanmelden. De kosten zijn afhankelijk van het abonnement dat je zelf kiest. Je hebt alle tijd om een goede overweging te maken welk abonnement je wilt. Bevalt het abonnement niet, dan kun je altijd veranderen van abonnement.  
+<br>
+Zodra een abonnement is gestart, loopt deze minimaal tot het einde van de verlengde garantietermijn (5 jaar na oplevering).<br>
+Er zijn twee opties, met als grootste verschil: “roaming”.  
+<br>
+<ins>Met roaming:</ins>
+<br>
+Wil je dat alle laadpassen (ANWB, Vattenfall, Plugsurfing, etc.) het op jouw laadpaal doen (misschien heb je wel een laadpas van je werkgever..), dan moet je het Max abonnement nemen. Voor “roamen” wordt echter wel €0,02 per kWh gerekend aan de laadpas eigenaar.  
+<br>
+<ins>Zonder roaming:</ins>
+<br>
+Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken? Wil je op de meest voordelige manier laden op jouw plek? Dan is het “plus abonnement” iets voor jou.  Let wel, hier heb je vervolgens een specifieke laadpas bij nodig en de kosten hiervan (€4,- per maand) komen nog bovenop de kosten van het laadpaalbeheerabonnement.  Deze laadpas is ook bruikbaar bij publiek laden in Nederland en Europa (+375.000 laadpunten).
+
+<img src="/Assets/subscription.png" alt="Abonnement">
+
+</div>
+<br>
+<br>
+</ul>
+
+<p><b>TERUGVERDIENREGELING</b></p>
+<p>Los van het feit dat je een mooie laadpaal hebt voor een gunstige prijs is er natuurlijk een verdienmodel voor elke Pionier zoals eerder gecommuniceerd.</p>
+<p>Wat betreft de setup is er niets veranderd; de pioniers dragen het risico, dus plukken ook de vruchten.</p>
+<p>Voorbeeld:</p>
+<p>Bij 67 Pioniers zijn de kosten per laadpaal &euro; 3125,-. Hiervan zijn &euro;2082,19 voor de infrastructuur.</p>
+<p>Mocht later iemand (nummer 68) een laadpaal willen laten plaatsen, dan is dat geen probleem. Ook zij betalen dan &euro;2082,19 voor de infrastructuur en daar bovenop nog de prijs voor de laadpaal (zonder korting en inclusief mogelijke prijsstijgingen van hardware + arbeid).</p>
+<p>Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 ge&iuml;nteresseerd (de Pioniers).</p>
+<p>Voor elke laadpaal dat later geplaatst wordt ontvangt iedere Pionier per laadpaal (&euro;2082,19/67 pioniers) &euro;31,08.</p>
+<p>Als de overige 83 (150-67) plekken op termijn allemaal een laadpaal hebben genomen, dan heb je per Pionier, per laadpaal, in totaal een bedrag van (&euro;31,08 X 83 extra laadpalen) &euro;2579,43 ontvangen.</p>
+<p>Uiteraard wordt er na elke nieuw geplaatste laadpaal periodiek uitgekeerd (dit loopt via de rekening van de VvE).</p>
+
+<p><b>BESLUITVORMING VVE</b></p>
+
+<p>Omdat de VvE een prominente rol gaat spelen in de nieuwe opzet, is het mandaat dat tijdens de laatste ALV aan het bestuur gegeven is niet toereikend. Besluitvorming in een ALV dient plaats te vinden voor:</p>
+<ul>
+<li>Besluit tot installatie</li>
+<li>Goedkeuring aangepast HHR</li>
+</ul>
+<p></p>
+
+<p>Zodra hier meer over bekend is zullen we dit mededelen.</p>
+
+<p><b>ACTIE GEVRAAGD:</b></p>
+
+<p>Voor een soepel verder verloop van dit proces is <ins><i>het van groot belang dat je je definitieve keuze kenbaar maakt aan ons</i></ins>. Waarna je bij interesse op korte termijn een contract krijgt ter ondertekening (dit zal na overeenstemming met het VvE bestuur gebeuren).</p>
+
+<p></p>
+
+<p>We kunnen de offerte van de leverancier accorderen, nadat alle pioniers het contract ondertekend hebben &eacute;n betaald hebben. Na de definitieve opdrachtverstrekking zal de doorlooptijd van plaatsen ongeveer 3 maanden duren volgens de huidige berichtgeving.</p>
+
+<p></p>
+
+<p>Tenslotte is er een stemming nodig in de ALV, hiervoor is een extra ALV nodig.</p>
+
+<p></p>
+
+<p>We kunnen ons voorstellen dat je nog vragen hebt. De commissie wil deze met liefde en plezier beantwoorden.</p>
+
+<p><b>Reageer a.u.b. voor 14-12-2022</b></p>
+
+<a href="https://forms.office.com/r/8PjexDL1Qq" class="buttonFancy">Klik hier om je keuze door te geven </a>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
