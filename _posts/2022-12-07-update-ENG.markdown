@@ -252,7 +252,7 @@ The charging station committee</p>
 
 <p><ins>Appendix 1: infrastructure costs for x number of participants:</ins></p>
 
-<p>Please note: The matrix below may change slightly based on possible optimizations depending on the number of participants.</p>
+<p>Please note: The matrix below may change slightly based on possible optimizations depending on the number of participants. Currently 67 people are interested.</p>
 <button type="button" class="collapsible">Click here for the matrix</button>
 <div class="content">
 <table>
