@@ -134,12 +134,12 @@ This prevents the infrastructure from being switched off if we ever get a form o
 <li>Legal costs.</li></ul>
 
 <p><b>THE COSTS</b></p>
-<p><i>At the current level of interest (67 pioneers), a charging station costs a total of &euro;3125.82 each.</i></p>
+<p><b><i>At the current level of interest (67 pioneers), a charging station costs a total of &euro;3125.82 each.</i></b></p>
 <p></p>
 <p>The one-off and monthly costs are set out below.</p>
 <p><ins>One-time:</ins></p>
 <ul>
-<li>Infrastructure costs + legal costs: €2082.19 (with 67 participants!) Please note: as a Pioneer you can easily recoup this amount. See “recovery scheme” below.</li>
+<li>Infrastructure costs + legal costs: €2082.19 (with 67 participants!) Please note: as a Pioneer you can easily recoup this amount. See reimbursement scheme” below.</li>
 <br>
 <button type="button" class="collapsible">Click here for more info</button>
 <div class="content">
@@ -161,7 +161,7 @@ We no longer make a distinction between wall and ceiling (bracket) mounting.
 
 <p><ins>Monthly costs:</ins></p>
 <ul>
-<li>Monthly for a minimum of 5 years: Extended warranty: €4.24 per month, per charging station.</li>
+<li>For a minimum of 5 years: Extended warranty: €4.24 per month, per charging station.</li>
 <br>
 <button type="button" class="collapsible">Click here for more info</button>
 <div class="content">
@@ -170,7 +170,7 @@ Mandatory extended warranty per month for 5 years, to be paid upon delivery:
 </div>
 <br>
 <br>
-<li>Monthly: Charge station management subscription: €5.00 / €7.00 per month per charge station.</li>
+<li>Charge station management subscription: €5.00 / €7.00 per month per charge station.</li>
 <br>
 <button type="button" class="collapsible">Click here for more info</button>
 <div class="content">
@@ -203,7 +203,7 @@ Don't have a charge card yet? Are you only going to use the charging station in 
 <p>If someone (number 68) wants to have a charging station installed later, that's no problem. They will then also pay &euro;2082.19 for the infrastructure and on top of that the price for the charging station (without discount and including possible price increases of hardware + labour).</p>
 <p>Of the approximately 150 spaces in the garage without a charging station, 67 are now interested (the Pioniers).</p>
 <p>For every charging station that is installed later, every Pioneer receives €31.08 per charging station (&euro;2082.19/67 pioneers).</p>
-<p>If the other 83 (150-67) places have all taken a charging station in the long term, you will have a total amount of (&euro;31.08 X 83 extra charging stations) &euro;2579 per Pioneer, per charging station. 43 received.</p>
+<p>If the other 83 (150-67) places have all taken a charging station in the long term, you will have a total amount of (&euro;31.08 X 83 extra charging stations) &euro;2579,64 received per Pioneer, per charging station.</p>
 <p>
 Of course, after every new charging station installed, a periodic payment is made (this is done through the account of the VvE).</p>
 
@@ -232,7 +232,7 @@ Of course, after every new charging station installed, a periodic payment is mad
 
 <p></p>
 
-<p>We can imagine that you still have questions. The committee wants to answer these with love and pleasure.</p>
+<p>We can imagine that you still have questions. Feel free to email us at <a href="mailto:laadpalenbold@gmail.com">laadpalenbold@gmail.com</a>.</p>
 
 <p><b>Please respond before 14-12-2022</b></p>
 

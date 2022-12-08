@@ -125,7 +125,7 @@ Dit voorkomt dat de infrastructuur uitgeschakeld wordt mochten we ooit weer een 
 <li>Juridische kosten.</li></ul>
 
 <p><b>DE KOSTEN</b></p>
-<p><i>Bij de huidige interesse (67 pioniers), kost een laadpaal in totaal per stuk &euro;3125,82.</i></p>
+<p><b><i>Bij de huidige interesse (67 pioniers), kost een laadpaal in totaal per stuk &euro;3125,82.</i></b></p>
 <p></p>
 <p>Hieronder zijn de eenmalige en maandelijkse kosten uiteengezet.</p>
 <p><ins>Eenmalig:</ins></p>
@@ -152,7 +152,7 @@ We maken geen onderscheidt meer tussen wand- en plafond (beugel) montage.
 
 <p><ins>Maandelijkse kosten:</ins></p>
 <ul>
-<li>Maandelijks voor minimaal 5 jaar: Verlengde garantie: €4,24 per maand, per laadpaal.</li>
+<li>Voor minimaal 5 jaar: Verlengde garantie: €4,24 per maand, per laadpaal.</li>
 <br>
 <button type="button" class="collapsible">Klik hier voor uitleg</button>
 <div class="content">
@@ -161,7 +161,7 @@ Verplichte verlengde garantie per maand voor 5 jaar, te betalen bij oplevering:
 </div>
 <br>
 <br>
-<li>Maandelijks: Laadpaalbeheerabonnement: €5,- / €7,- per maand per laadpaal.</li>
+<li>Laadpaalbeheerabonnement: €5,- / €7,- per maand per laadpaal.</li>
 <br>
 <button type="button" class="collapsible">Klik hier voor uitleg</button>
 <div class="content">
@@ -223,7 +223,7 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 
 <p></p>
 
-<p>We kunnen ons voorstellen dat je nog vragen hebt. De commissie wil deze met liefde en plezier beantwoorden.</p>
+<p>We kunnen ons voorstellen dat je nog vragen hebt. De commissie wil deze met liefde en plezier beantwoorden. Stuur ons hiervoor een email op <a href="mailto:laadpalenbold@gmail.com">laadpalenbold@gmail.com</a>.</p>
 
 <p><b>Reageer a.u.b. voor 14-12-2022</b></p>
 
