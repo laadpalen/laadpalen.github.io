@@ -54,13 +54,13 @@ due-date: xx-xx-xxxx
 
 <p></p>
 
-<p>Via deze brief geven we je een update en vragen we je te reageren.</p>
+<p>Via dit bericht geven we je een update en vragen we je te reageren.</p>
 
 <p></p>
 
 <p><b>STATUS</b></p>
 
-<p>Allereerst wat achtergrondinformatie waarom het lang geduurd heeft dat we jullie informeren. Het is juridisch niet zo makkelijk om de infrastructuur te plaatsen en de kosten te verdelen.</p>
+<p>Allereerst wat uitleg waarom het lang geduurd heeft voordat we jullie informeren. Het is juridisch niet zo makkelijk om de infrastructuur te plaatsen en de kosten te verdelen.</p>
 
 <p>Redenen hiervan zijn onder andere:</p>
 <ul>
@@ -72,7 +72,7 @@ due-date: xx-xx-xxxx
 
 <p>Om dit alles goed te regelen en te integreren in de VvE, werken we samen met een jurist die een constructie heeft bedacht voor de aanschaf van de infrastructuur en de periode die na aanschaf komt (n.b. mensen die later een laadpaal willen en hiervoor de pioniersgroep zullen compenseren). Tevens wordt het bestaan van de pioniersgroep formeel vastgelegd. Hier wordt een zogeheten aannemers overeenkomt voor aangegaan, waarbij de pioniersgroep optreedt als aannemer in opdracht van de VvE. Hierover in de toekomst meer.</p>
 
-<p>Daarnaast zal het e.e.a. vastgelegd moeten worden in het huishoudelijk regelement. Hierover verderop in de tekst meer.</p>
+<p>Daarnaast zal het e.e.a. vastgelegd moeten worden in het huishoudelijk reglement. Hierover verderop in de tekst meer.</p>
 
 <p><b>VERPLICHT EEN LAADPAAL</b></p>
 
@@ -97,7 +97,7 @@ due-date: xx-xx-xxxx
 <button type="button" class="collapsible">Mocht je nog twijfel hierover hebben, een onderbouwing van bovenstaande vind je door hier te klikken</button>
 <div class="content">
 <img src="/Assets/montly_costs.png" alt="Maandelijkse kosten">
-<p>Bij oplevering van de laadpaal zijn de kosten voor verlengde garantie (á €4,24 per maand) de enige maandelijkse kosten die direct beginnen te lopen.<br>
+<p>Bij oplevering van de laadpaal zijn de kosten voor de verplichte verlengde garantie (á €4,24 per maand) de enige maandelijkse kosten die direct beginnen te lopen.<br>
 
 De kosten voor het “laadpaalbeheer abonnement” beginnen pas te lopen zodra de laadpaal is geregistreerd door de eigenaar. Dit kan dus gedaan worden op het moment dat de laadpaal daadwerkelijk nodig is. Zonder registratie (en dus zonder laadpaalbeheerabonnement) is de laadpaal niet te gebruiken, want de kosten voor de gebruikte stroom kunnen niet verrekend worden. </p>
 
@@ -194,7 +194,7 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 <p>Bij 67 Pioniers zijn de kosten per laadpaal &euro; 3125,-. Hiervan zijn &euro;2082,19 voor de infrastructuur.</p>
 <p>Mocht later iemand (nummer 68) een laadpaal willen laten plaatsen, dan is dat geen probleem. Ook zij betalen dan &euro;2082,19 voor de infrastructuur en daar bovenop nog de prijs voor de laadpaal (zonder korting en inclusief mogelijke prijsstijgingen van hardware + arbeid).</p>
 <p>Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 ge&iuml;nteresseerd (de Pioniers).</p>
-<p>Voor elke laadpaal dat later geplaatst wordt ontvangt iedere Pionier per laadpaal (&euro;2082,19/67 pioniers) &euro;31,08.</p>
+<p>Voor elke laadpaal die later geplaatst wordt ontvangt iedere Pionier per laadpaal (&euro;2082,19/67 pioniers) &euro;31,08.</p>
 <p>Als de overige 83 (150-67) plekken op termijn allemaal een laadpaal hebben genomen, dan heb je per Pionier, per laadpaal, in totaal een bedrag van (&euro;31,08 X 83 extra laadpalen) &euro;2579,43 ontvangen.</p>
 <p>Uiteraard wordt er na elke nieuw geplaatste laadpaal periodiek uitgekeerd (dit loopt via de rekening van de VvE).</p>
 
@@ -215,7 +215,7 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 
 <p></p>
 
-<p>We kunnen de offerte van de leverancier accorderen, nadat alle pioniers het contract ondertekend hebben &eacute;n betaald hebben. Na de definitieve opdrachtverstrekking zal de doorlooptijd van plaatsen ongeveer 3 maanden duren volgens de huidige berichtgeving.</p>
+<p>We kunnen de offerte van de leverancier accorderen, nadat alle pioniers het contract ondertekend hebben &eacute;n betaald hebben. Na de definitieve opdrachtverstrekking zal de doorlooptijd van plaatsen ongeveer 3 maanden zijn volgens de huidige berichtgeving.</p>
 
 <p></p>
 
