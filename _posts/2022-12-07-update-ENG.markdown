@@ -100,8 +100,6 @@ date:   2022-12-07 20:52:00 +0100
 
 <p>As a result, we had to decide to cancel the choice to become a Pioneer, but not to purchase a charging station. <ins><i>All pioneer group participants will have to purchase a charging station.</i></ins> Because some of you have indicated that you will not need a charging station until later, this may result in pioneers dropping out. Unfortunately, there is no other feasible construction for this that is workable and legally sound.</p>
 
-<p><ins><i>Advice from the committee: become a Pioneer and get a charging station immediately!</i></ins></p>
-
 <button type="button" class="collapsible">If you still have doubts about this, you can find a substantiation of the above by clicking here</button>
 <div class="content">
 <img src="/Assets/montly_costs.png" alt="Maandelijkse kosten">
@@ -143,7 +141,7 @@ This prevents the infrastructure from being switched off if we ever get a form o
 <br>
 <button type="button" class="collapsible">Click here for more info</button>
 <div class="content">
-The appendix explains the costs for the infrastructure and legal costs per charging station for the stated number of participants. At the time of writing, 67 people are interested.
+Appendix 1 explains the costs for the infrastructure and legal costs per charging station for the stated number of participants. At the time of writing, 67 people are interested.
 </div>
 <br>
 <br>
@@ -161,7 +159,7 @@ We no longer make a distinction between wall and ceiling (bracket) mounting.
 
 <p><ins>Monthly costs:</ins></p>
 <ul>
-<li>For a minimum of 5 years: Extended warranty: €4.24 per month, per charging station.</li>
+<li>For a minimum of 5 years: Extended warranty (Appendix 2): €4.24 per month, per charging station.</li>
 <br>
 <button type="button" class="collapsible">Click here for more info</button>
 <div class="content">
@@ -236,7 +234,11 @@ Of course, after every new charging station installed, a periodic payment is mad
 
 <p><b>Please respond before 14-12-2022</b></p>
 
+<p><ins><i>Advice from the committee: become a Pioneer and get a charging station immediately!</i></ins></p>
+
 <a href="https://forms.office.com/r/8PjexDL1Qq" class="buttonFancy">Click here to let us know your choice</a>
+<br>
+<br>
 
 <p>With kind regards,
 <br>
@@ -349,6 +351,7 @@ The charging station committee</p>
 <br>
 <br>
 <p><ins>Appendix 2: Extended Warranty:</ins></p>
+<p>The text below has been copied from the quote from the charging station supplier.</p>
 
 <p><b>MAINTENANCE, SERVICE AND WARRANTY</b></p>
 

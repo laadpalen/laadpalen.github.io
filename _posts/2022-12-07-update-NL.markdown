@@ -92,7 +92,6 @@ due-date: xx-xx-xxxx
 
 <p>Dit maakt dat we hebben moeten besluiten om de keuze om w&eacute;l Pionier te worden, maar g&eacute;&eacute;n laadpaal aan te schaffen hebben moeten laten vervallen. <ins><i>Alle pioniersgroep deelnemers zullen een laadpaal moeten aanschaffen.</i></ins> Omdat enkelen van jullie hebben aangegeven pas later een laadpaal nodig te hebben, kan dit als gevolg hebben dat er pioniers afvallen. Helaas is hier geen andere haalbare constructie voor te bedenken die werkbaar is en juridisch in orde is.</p>
 
-<p><ins><i>Advies van de commissie: wordt Pionier inclusief direct een laadpaal!</i></ins></p>
 
 <button type="button" class="collapsible">Mocht je nog twijfel hierover hebben, een onderbouwing van bovenstaande vind je door hier te klikken</button>
 <div class="content">
@@ -134,7 +133,7 @@ Dit voorkomt dat de infrastructuur uitgeschakeld wordt mochten we ooit weer een 
 <br>
 <button type="button" class="collapsible">Klik hier voor uitleg</button>
 <div class="content">
-In de bijlage wordt uitgelegd wat de kosten voor de infrastructuur en juridische kosten zijn per laadpaal bij het genoemde aantal deelnemers. Op het moment van schrijven zijn 67 mensen geïnteresseerd.  
+In bijlage 1 wordt uitgelegd wat de kosten voor de infrastructuur en juridische kosten zijn per laadpaal bij het genoemde aantal deelnemers. Op het moment van schrijven zijn 67 mensen geïnteresseerd.  
 </div>
 <br>
 <br>
@@ -152,7 +151,7 @@ We maken geen onderscheidt meer tussen wand- en plafond (beugel) montage.
 
 <p><ins>Maandelijkse kosten:</ins></p>
 <ul>
-<li>Voor minimaal 5 jaar: Verlengde garantie: €4,24 per maand, per laadpaal.</li>
+<li>Voor minimaal 5 jaar: Verlengde garantie (bijlage 2): €4,24 per maand, per laadpaal.</li>
 <br>
 <button type="button" class="collapsible">Klik hier voor uitleg</button>
 <div class="content">
@@ -227,8 +226,11 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 
 <p><b>Reageer a.u.b. voor 14-12-2022</b></p>
 
-<a href="https://forms.office.com/r/8PjexDL1Qq" class="buttonFancy">Klik hier om je keuze door te geven </a>
+<p><ins><i>Advies van de commissie: wordt Pionier inclusief direct een laadpaal!</i></ins></p>
 
+<a href="https://forms.office.com/r/8PjexDL1Qq" class="buttonFancy">Klik hier om je keuze door te geven </a>
+<br>
+<br>
 <p>Met vriendelijke groet,
 <br>
 De Laadpalencommissie</p>
@@ -341,6 +343,7 @@ De Laadpalencommissie</p>
 <br>
 <br>
 <p><ins>Bijlage 2: Verlengde garantie:</ins></p>
+<p>Onderstaande tekst is gekopieerd uit de offerte van de laadpalenleverancier.</p>
 
 <p><b>ONDERHOUD, SERVICE EN GARANTIE</b></p>
 
