@@ -125,7 +125,7 @@ Dit voorkomt dat de infrastructuur uitgeschakeld wordt mochten we ooit weer een 
 <li>Juridische kosten.</li></ul>
 
 <p><b>DE KOSTEN</b></p>
-<p><b><i>Bij de huidige interesse (67 pioniers), kost een laadpaal in totaal per stuk &euro;3125,82.</i></b></p>
+<p><b><i>Bij de huidige interesse (67 pioniers), kost een laadpaal plus de benodigde infrastructuur totaal per stuk &euro;3125,82.</i></b></p>
 <p></p>
 <p>Hieronder zijn de eenmalige en maandelijkse kosten uiteengezet.</p>
 <p><ins>Eenmalig:</ins></p>
@@ -344,7 +344,7 @@ De Laadpalencommissie</p>
 
 <p><b>ONDERHOUD, SERVICE EN GARANTIE</b></p>
 
-<p><i>Onder onderhoud, service en garantie kunnen wij een abonnement aanbieden waarin het gehele pakket bestaande uit onderhoud, service en garantie uit handen zal worden genomen. Voor dit be- drag zullen wij jaarlijks de installatie controleren en waar nodig klein correctief onderhoud plegen, bieden wij service op afstand en ter plaatse en worden storingen kosteloos opgelost. Het onder- staand vermelde bedrag zal gelden voor alle aangesloten laadstations voor een maximale periode van 5 jaar.<i>
+<p><i>Onder onderhoud, service en garantie kunnen wij een abonnement aanbieden waarin het gehele pakket bestaande uit onderhoud, service en garantie uit handen zal worden genomen. Voor dit bedrag zullen wij jaarlijks de installatie controleren en waar nodig klein correctief onderhoud plegen, bieden wij service op afstand en ter plaatse en worden storingen kosteloos opgelost. Het onder- staand vermelde bedrag zal gelden voor alle aangesloten laadstations voor een maximale periode van 5 jaar.<i>
 <ul>
 <li>Onderhoud, service en verlengde garantie</li>
 <li>Dit bedrag omvat:</li>
