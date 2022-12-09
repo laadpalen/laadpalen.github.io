@@ -190,7 +190,7 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 <p>Los van het feit dat je een mooie laadpaal hebt voor een gunstige prijs is er natuurlijk een verdienmodel voor elke Pionier zoals eerder gecommuniceerd.</p>
 <p>Wat betreft de setup is er niets veranderd; de pioniers dragen het risico, dus plukken ook de vruchten.</p>
 <p>Voorbeeld:</p>
-<p>Bij 67 Pioniers zijn de kosten per laadpaal &euro; 3125,-. Hiervan zijn &euro;2082,19 voor de infrastructuur.</p>
+<p>Bij 67 Pioniers zijn de kosten per laadpaal &euro; 3125,-. Hiervan is &euro;2082,19 voor de infrastructuur.</p>
 <p>Mocht later iemand (nummer 68) een laadpaal willen laten plaatsen, dan is dat geen probleem. Ook zij betalen dan &euro;2082,19 voor de infrastructuur en daar bovenop nog de prijs voor de laadpaal (zonder korting en inclusief mogelijke prijsstijgingen van hardware + arbeid).</p>
 <p>Van de ongeveer 150 plekken in de garage zonder laadpaal zijn er nu 67 ge&iuml;nteresseerd (de Pioniers).</p>
 <p>Voor elke laadpaal die later geplaatst wordt ontvangt iedere Pionier per laadpaal (&euro;2082,19/67 pioniers) &euro;31,08.</p>
