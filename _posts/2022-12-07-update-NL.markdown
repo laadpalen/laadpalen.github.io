@@ -199,7 +199,7 @@ Heb je nog geen laadpas? Ga alleen jij de laadpaal op jouw parkeerplek gebruiken
 
 <p><b>BESLUITVORMING VVE</b></p>
 
-<p>Omdat de VvE een prominente rol gaat spelen in de nieuwe opzet, is het mandaat dat tijdens de laatste ALV aan het bestuur gegeven is niet toereikend. Besluitvorming in een ALV dient plaats te vinden voor:</p>
+<p>Omdat de VvE een prominente rol gaat spelen in de nieuwe opzet, is het mandaat dat tijdens de laatste ALV aan het bestuur gegeven niet toereikend. Besluitvorming in een ALV dient plaats te vinden voor:</p>
 <ul>
 <li>Besluit tot installatie</li>
 <li>Goedkeuring aangepast HHR</li>
