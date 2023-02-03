@@ -42,7 +42,7 @@ due-date: xx-xx-xxxx
 
 <p> Unfortunately, things are not going as fast as hoped. </p>
 
-<p>For questions <a href="mailto:email@example.com">laadpalenbold@gmail.com</a>.</p>
+<p>For questions <a href="mailto:laadpalenbold@gmail.com">laadpalenbold@gmail.com</a>.</p>
 
 <p>Sincerely, 
 </p>

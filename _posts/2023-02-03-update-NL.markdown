@@ -42,7 +42,7 @@ In de ALV van 9 mei zullen we stemmen over de benodigde aanpassing van het huish
 
 <p>Helaas gaat het allemaal minder snel dan gehoopt.</p>
 
-<p>Voor vragen mail <a href="mailto:email@example.com">laadpalenbold@gmail.com</a>.</p>
+<p>Voor vragen mail <a href="mailto:laadpalenbold@gmail.com">laadpalenbold@gmail.com</a>.</p>
 
 <p>Hartelijke groet,  
 </p>
