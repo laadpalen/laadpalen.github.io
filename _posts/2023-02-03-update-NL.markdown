@@ -1,0 +1,51 @@
+---
+layout: default
+title:  "Nieuws update laadpalen Bold [NL]"
+date:   2023-02-01 20:52:00 +0100
+due-date: xx-xx-xxxx
+
+---
+
+<p>Update laadpalen </p>
+
+<p>Beste pioniers,</p>
+
+<p></p>
+
+<p>Er is goed nieuws en minder goed nieuws.</p>
+
+<p></p>
+
+<p>We beginnen met het goede nieuws: het juridische gedeelte is afgerond. Onze advocaat heeft een prima constructie bedacht en op papier gezet.   
+
+Kortweg: de pioniers investeren in de aanleg van het netwerk. Nieuwe deelnemers betalen hetzelfde bedrag voor de infrastructuur als een pionier, maar dit bedrag gaat terug naar de pioniers, dit is het rendement op de investering.   
+
+Verder zal het netwerk overgedragen worden aan de VVE. Zodat het beheer ook duurzaam belegd is.   
+
+Het bestuur is akkoord met de voorgestelde juridische constructie. Wel is er een aanpassing in het huishoudelijk reglement nodig.   
+</p>
+
+<p>Dan het minder goede nieuws: de geoffreerde laadpalen zijn niet meer leverbaar als gevolg van certificeringsproblemen. Een alternatieve laadpaal van deze leverancier is ongeveer 1200 euro duurder.   
+
+Voor de commissie is dit reden om op zoek naar een andere leverancier.   
+
+Een flinke domper.    
+</p>
+
+
+<p>We moeten de planning dus bijstellen, maar door een aantal zaken tegelijkertijd op te pakken hopen we onderaan de streep niet te veel tijd te verliezen.  
+
+Komende weken focussen we op een andere leverancier en t.z.t. zullen we de definitieve keuze communiceren.  
+
+In de ALV van 9 mei zullen we stemmen over de benodigde aanpassing van het huishoudelijk reglement. We hopen voor die tijd de offerte rond te hebben, iedereen het contract te hebben laten tekenen en het geld te innen (onder voorbehoudt van positieve stemming op ALV). Als dat lukt, kunnen we op 10 mei de opdracht aan de leverancier bevestigen en de eerste aanbetaling doen.  
+</p>
+
+<p>Helaas gaat het allemaal minder snel dan gehoopt.</p>
+
+<p>Voor vragen mail <a href="mailto:email@example.com">laadpalenbold@gmail.com</a></p>
+
+<p>Hartelijke groet,  
+</p>
+<p>
+De laadpalencommissie  
+</p>
